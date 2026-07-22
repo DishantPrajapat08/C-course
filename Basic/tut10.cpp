@@ -4,10 +4,19 @@ using namespace std;
 int main()
 {
     //For loop
-    for (int i=0;i<4;i++)
-    {
-        cout<<i<<endl;
+    // for (int i=0;i<4;i++)
+    // {
+    //     cout<<i<<endl;
 
+    // }
+
+
+    //While loop
+int i=10;
+while (i<=40)
+    {
+cout<<i<<endl;
+i++;
     }
 
     return 0;
